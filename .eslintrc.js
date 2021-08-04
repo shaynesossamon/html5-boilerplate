@@ -2,8 +2,7 @@ module.exports = {
   env: {
     browser: true,
     es6: true,
-    mocha: true,
-    hello mother: true,
+    mocha: true
   },
   plugins: ["mocha"],
   extends: "eslint:recommended",
